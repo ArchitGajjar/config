@@ -1,0 +1,10 @@
+" Press ? for help
+
+.. (up a dir)
+/Users/agajjar/.config/nvim/
+▸ after/
+▸ colors/
+▸ lua/
+▸ plugin/
+  init.vim
+  plug.vim
